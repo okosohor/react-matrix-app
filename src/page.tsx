@@ -1,7 +1,6 @@
-import React from 'react';
 
 function Page() {
-  return <div className="text-red-800">1 23</div>;
+  return <div className="">template</div>;
 }
 
 export default Page;
